@@ -2,6 +2,8 @@
 
 This project is a web application built with **Next.js 14.2.14** for optimized performance and routing management, and **TailwindCSS** for designing the user interface (UI) and user experience (UX). The main goal is to create a smooth and visually appealing user experience with a modern and efficient development approach.
 
+Travel_app: https://travel-app-gilt-eta.vercel.app/
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/): React framework for server-side rendering (SSR) and static site generation.
